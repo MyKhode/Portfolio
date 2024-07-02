@@ -16,23 +16,23 @@ hasCJKLanguage: false
 languages:
     en:
         languageName: English
-        title: Example Site
+        title: Ikhode
         weight: 1
         params:
-            description: Example description
+            description: I'm a game developer who studying Software Engineer at Cambodia Country.
     zh-cn:
         languageName: 中文
-        title: 演示站点
+        title: Ikhode
         weight: 2
         params:
-            description: 演示说明
+            description: 我是一名遊戲開發人員，在柬埔寨國家學習軟體工程師。
     ar:
         languageName: عربي
         languagedirection: rtl
-        title: موقع تجريبي
+        title: Ikhode
         weight: 3
         params:
-            description: وصف تجريبي
+            description: أنا مطور ألعاب وأدرس مهندس برمجيات في دولة كمبوديا.
 
 services:
     # Change it to your Disqus shortname before using
@@ -63,7 +63,7 @@ params:
 
     sidebar:
         emoji: 🍥
-        subtitle: I'm a game developer who studying Software Engineer at Cambodia Country.
+        subtitle: I'm a game developer who studying Software Engineer which located at Cambodia Country.
         avatar:
             enabled: true
             local: true
@@ -211,13 +211,13 @@ menu:
     social:
         - identifier: github
           name: GitHub
-          url: https://github.com/CaiJimmy/hugo-theme-stack
+          url: "https://github.com/ikhode-kh"
           params:
               icon: brand-github
 
-        - identifier: twitter
+        - identifier: youtube
           name: Twitter
-          url: https://twitter.com
+          url: "https://www.youtube.com/@_Ikhode"
           params:
               icon: brand-twitter
 
