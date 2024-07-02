@@ -1,8 +1,6 @@
 [build]
-  command = "hugo --gc --themesDir ../.. -b $URL"
+  command = "hugo"
   publish = "public"
 
-[context.production.environment]
-  HUGO_VERSION = "0.80.0"
-  HUGO_THEME = "hugo-theme"
-  HUGO_ENV = "production"
+[build.environment]
+  HUGO_VERSION = "0.124.0"
