@@ -22,7 +22,7 @@ languages:
             description: I'm a game developer who studying Software Engineer at Cambodia Country.
     kh:
         languageName: ខ្មែរ
-        title: អភិវឌ្ឍបច្ចេកវិទ្យា
+        title: អភិវឌ្ឍ
         weight: 1
         params:
             description: ខ្ញុំបាទជាអ្នកបង្កើតហ្គេមមួយរូបដែលកំពុងតែសិក្សាលើជំនាញ វិស្វកម្មបច្ចេកវិទ្យាព័ត៌មាន ដែលមានទីតាំងបច្ចុប្បន្នស្ថិតនៅ ទីក្រុងភ្នំពេញ។
