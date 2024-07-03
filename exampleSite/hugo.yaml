@@ -14,238 +14,238 @@ DefaultContentLanguage: en
 hasCJKLanguage: false
 
 languages:
-    en:
-        languageName: English
-        title: Ikhode
-        weight: 1
-        params:
-            description: I'm a game developer who studying Software Engineer at Cambodia Country.
-    zh-cn:
-        languageName: 中文
-        title: 演示站点
-        weight: 2
-        params:
-            description: 我是一名遊戲開發人員，在柬埔寨國家學習軟體工程師。
-    ar:
-        languageName: عربي
-        languagedirection: rtl
-        title: ikhode
-        weight: 3
-        params:
-            description:  أنا مطور ألعاب وأدرس مهندس برمجيات في دولة كمبوديا.
+  en:
+    languageName: English
+    title: Ikhode
+    weight: 1
+    params:
+      description: I'm a game developer who studying Software Engineer at Cambodia Country.
+  zh-cn:
+    languageName: 中文
+    title: 演示站点
+    weight: 2
+    params:
+      description: 我是一名遊戲開發人員，在柬埔寨國家學習軟體工程師。
+  ar:
+    languageName: عربي
+    languagedirection: rtl
+    title: ikhode
+    weight: 3
+    params:
+      description: أنا مطور ألعاب وأدرس مهندس برمجيات في دولة كمبوديا.
 
 services:
-    # Change it to your Disqus shortname before using
-    disqus:
-        shortname: "ikhode"
-    # GA Tracking ID
-    googleAnalytics:
-        id:
+  # Change it to your Disqus shortname before using
+  disqus:
+    shortname: "ikhode"
+  # GA Tracking ID
+  googleAnalytics:
+    id:
 
 permalinks:
-    post: /p/:slug/
-    page: /:slug/
+  post: /p/:slug/
+  page: /:slug/
 
 params:
-    mainSections:
-        - post
-    featuredImageField: image
-    rssFullContent: true
-    favicon: # e.g.: favicon placed in `static/favicon.ico` of your site folder, then set this field to `/favicon.ico` (`/` is necessary)
+  mainSections:
+    - post
+  featuredImageField: image
+  rssFullContent: true
+  favicon: # e.g.: favicon placed in `static/favicon.ico` of your site folder, then set this field to `/favicon.ico` (`/` is necessary)
 
-    footer:
-        since: 2020
-        customText:
+  footer:
+    since: 2020
+    customText:
 
-    dateFormat:
-        published: July 01, 2024
-        lastUpdated: July 03, 2024 15:04 MST
+  dateFormat:
+    published: July 01, 2024
+    lastUpdated: July 03, 2024 15:04 MST
 
-    sidebar:
-        emoji: 🍥
-        subtitle: I'm a game developer who studying Software Engineer at Cambodia Country.
-        avatar:
-            enabled: true
-            local: true
-            src: img/ikhode_avatar.png
+  sidebar:
+    emoji: "%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22474%22%20height%3D%22468%22%20version%3D%221.2%22%3E%3Cstyle%3Etspan%7Bwhite-space%3Apre%7D.t2%7Bfont-size%3A150px%3Bfill%3A%23ff008c%3Bfont-weight%3A300%3Bfont-style%3Aitalic%3Bfont-family%3A%26quot%3BSansita-LightItalic%26quot%3B%2C%26quot%3BSansita%20Light%20Italic%26quot%3B%7D%3C%2Fstyle%3E%3Cpath%20id%3D%22Shape%201%22%20d%3D%22m420.7%20379.9-123.4%2079.3-146.5-8.4-113.5-92.9L0%20216%2053.3%2079.3%20176.7%200l146.5%208.4%20113.5%2092.9L474%20243.2z%22%20style%3D%22fill%3A%23bababa%3Bstroke%3A%23000%3Bstroke-miterlimit%3A100%3Bstroke-width%3A0%22%2F%3E%3Cpath%20id%3D%22Shape%201%20copy%22%20d%3D%22M219.7%20443.5%2097.3%20392.9%2028%20280.1l10.3-132%2085.8-100.8%20128.8-31.1%20122.3%2050.6%2069.4%20112.8-10.3%20132-85.9%20100.8z%22%20style%3D%22fill%3A%23fff%3Bstroke%3A%23000%3Bstroke-miterlimit%3A100%3Bstroke-width%3A0%22%2F%3E%3Ctext%20id%3D%22IK%22%20style%3D%22transform%3Amatrix(2.012%2C0%2C0%2C2.012%2C102.139%2C327.275)%22%3E%0A%09%09%3Ctspan%20x%3D%220%22%20y%3D%220%22%20class%3D%22t2%22%3EI%3C%2Ftspan%3E%3Ctspan%20y%3D%220%22%20class%3D%22t2%22%3EK%3C%2Ftspan%3E%3Ctspan%20y%3D%220%22%20class%3D%22t2%22%3E%0A%3C%2Ftspan%3E%0A%09%3C%2Ftext%3E%3C%2Fsvg%3E"
+    subtitle: I'm a game developer who studying Software Engineer at Cambodia Country.
+    avatar:
+      enabled: true
+      local: true
+      src: img/ikhode_avatar.png
 
-    article:
-        math: false
-        toc: true
-        readingTime: true
-        license:
-            enabled: true
-            default: Licensed under CC BY-NC-SA 4.0
+  article:
+    math: false
+    toc: true
+    readingTime: true
+    license:
+      enabled: true
+      default: Licensed under CC BY-NC-SA 4.0
 
-    comments:
-        enabled: true
-        provider: disqus
+  comments:
+    enabled: true
+    provider: disqus
 
-        disqusjs:
-            shortname:
-            apiUrl:
-            apiKey:
-            admin:
-            adminLabel:
+    disqusjs:
+      shortname:
+      apiUrl:
+      apiKey:
+      admin:
+      adminLabel:
 
-        utterances:
-            repo:
-            issueTerm: pathname
-            label:
+    utterances:
+      repo:
+      issueTerm: pathname
+      label:
 
-        beaudar:
-            repo:
-            issueTerm: pathname
-            label:
-            theme:        
+    beaudar:
+      repo:
+      issueTerm: pathname
+      label:
+      theme:
 
-        remark42:
-            host:
-            site:
-            locale:
+    remark42:
+      host:
+      site:
+      locale:
 
-        vssue:
-            platform:
-            owner:
-            repo:
-            clientId:
-            clientSecret:
-            autoCreateIssue: false
+    vssue:
+      platform:
+      owner:
+      repo:
+      clientId:
+      clientSecret:
+      autoCreateIssue: false
 
-        # Waline client configuration see: https://waline.js.org/en/reference/component.html
-        waline:
-            serverURL:
-            lang:
-            pageview:
-            emoji:
-                - https://unpkg.com/@waline/emojis@1.0.1/weibo
-            requiredMeta:
-                - name
-                - email
-                - url
-            locale:
-                admin: Admin
-                placeholder:
+    # Waline client configuration see: https://waline.js.org/en/reference/component.html
+    waline:
+      serverURL:
+      lang:
+      pageview:
+      emoji:
+        - https://unpkg.com/@waline/emojis@1.0.1/weibo
+      requiredMeta:
+        - name
+        - email
+        - url
+      locale:
+        admin: Admin
+        placeholder:
 
-        twikoo:
-            envId:
-            region:
-            path:
-            lang:
+    twikoo:
+      envId:
+      region:
+      path:
+      lang:
 
-        # See https://cactus.chat/docs/reference/web-client/#configuration for description of the various options
-        cactus:
-            defaultHomeserverUrl: "https://matrix.cactus.chat:8448"
-            serverName: "cactus.chat"
-            siteName: "" # You must insert a unique identifier here matching the one you registered (See https://cactus.chat/docs/getting-started/quick-start/#register-your-site)
+    # See https://cactus.chat/docs/reference/web-client/#configuration for description of the various options
+    cactus:
+      defaultHomeserverUrl: "https://matrix.cactus.chat:8448"
+      serverName: "cactus.chat"
+      siteName: "" # You must insert a unique identifier here matching the one you registered (See https://cactus.chat/docs/getting-started/quick-start/#register-your-site)
 
-        giscus:
-            repo:
-            repoID:
-            category:
-            categoryID:
-            mapping:
-            lightTheme:
-            darkTheme:
-            reactionsEnabled: 1
-            emitMetadata: 0
+    giscus:
+      repo:
+      repoID:
+      category:
+      categoryID:
+      mapping:
+      lightTheme:
+      darkTheme:
+      reactionsEnabled: 1
+      emitMetadata: 0
 
-        gitalk:
-            owner:
-            admin:
-            repo:
-            clientID:
-            clientSecret:
+    gitalk:
+      owner:
+      admin:
+      repo:
+      clientID:
+      clientSecret:
 
-        cusdis:
-            host:
-            id:
-    widgets:
-        homepage:
-            - type: search
-            - type: archives
-              params:
-                  limit: 5
-            - type: categories
-              params:
-                  limit: 10
-            - type: tag-cloud
-              params:
-                  limit: 10
-        page:
-            - type: toc
+    cusdis:
+      host:
+      id:
+  widgets:
+    homepage:
+      - type: search
+      - type: archives
+        params:
+          limit: 5
+      - type: categories
+        params:
+          limit: 10
+      - type: tag-cloud
+        params:
+          limit: 10
+    page:
+      - type: toc
 
+  opengraph:
+    twitter:
+      # Your Twitter username
+      site:
+
+      # Available values: summary, summary_large_image
+      card: summary_large_image
+
+  defaultImage:
     opengraph:
-        twitter:
-            # Your Twitter username
-            site:
+      enabled: false
+      local: false
+      src:
 
-            # Available values: summary, summary_large_image
-            card: summary_large_image
+  colorScheme:
+    # Display toggle
+    toggle: true
 
-    defaultImage:
-        opengraph:
-            enabled: false
-            local: false
-            src:
+    # Available values: auto, light, dark
+    default: auto
 
-    colorScheme:
-        # Display toggle
-        toggle: true
-
-        # Available values: auto, light, dark
-        default: auto
-
-    imageProcessing:
-        cover:
-            enabled: true
-        content:
-            enabled: true
+  imageProcessing:
+    cover:
+      enabled: true
+    content:
+      enabled: true
 
 ### Custom menu
 ### See https://stack.jimmycai.com/config/menu
 ### To remove about, archive and search page menu item, remove `menu` field from their FrontMatter
 menu:
-    main: []
+  main: []
 
-    social:
-        - identifier: github
-          name: GitHub
-          url: https://github.com/ikhode-kh
-          params:
-              icon: brand-github
+  social:
+    - identifier: github
+      name: GitHub
+      url: https://github.com/ikhode-kh
+      params:
+        icon: brand-github
 
-        - identifier: youtube
-          name: YouTube
-          url: https://www.youtube.com/@_Ikhode
-          params:
-              icon: youtube
+    - identifier: youtube
+      name: YouTube
+      url: https://www.youtube.com/@_Ikhode
+      params:
+        icon: youtube
 
 related:
-    includeNewer: true
-    threshold: 60
-    toLower: false
-    indices:
-        - name: tags
-          weight: 100
+  includeNewer: true
+  threshold: 60
+  toLower: false
+  indices:
+    - name: tags
+      weight: 100
 
-        - name: categories
-          weight: 200
+    - name: categories
+      weight: 200
 
 markup:
-    goldmark:
-        renderer:
-            ## Set to true if you have HTML content inside Markdown
-            unsafe: true
-    tableOfContents:
-        endLevel: 4
-        ordered: true
-        startLevel: 2
-    highlight:
-        noClasses: false
-        codeFences: true
-        guessSyntax: true
-        lineNoStart: 1
-        lineNos: true
-        lineNumbersInTable: true
-        tabWidth: 4
+  goldmark:
+    renderer:
+      ## Set to true if you have HTML content inside Markdown
+      unsafe: true
+  tableOfContents:
+    endLevel: 4
+    ordered: true
+    startLevel: 2
+  highlight:
+    noClasses: false
+    codeFences: true
+    guessSyntax: true
+    lineNoStart: 1
+    lineNos: true
+    lineNumbersInTable: true
+    tabWidth: 4
