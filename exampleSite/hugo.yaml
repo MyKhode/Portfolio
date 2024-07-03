@@ -25,14 +25,14 @@ languages:
         title: 演示站点
         weight: 2
         params:
-            description: 演示说明
+            description: 我是一名遊戲開發人員，在柬埔寨國家學習軟體工程師。
     ar:
         languageName: عربي
         languagedirection: rtl
-        title: موقع تجريبي
+        title: ikhode
         weight: 3
         params:
-            description: وصف تجريبي
+            description:  أنا مطور ألعاب وأدرس مهندس برمجيات في دولة كمبوديا.
 
 services:
     # Change it to your Disqus shortname before using
@@ -67,7 +67,7 @@ params:
         avatar:
             enabled: true
             local: true
-            src: img/avatar.png
+            src: img/ikhode_avatar.png
 
     article:
         math: false
