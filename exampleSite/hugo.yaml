@@ -3,7 +3,7 @@ languageCode: en-us
 theme: hugo-theme-stack
 paginate: 3
 title: Ikhode
-copyright: Example Person
+copyright: Ikhode Official
 
 # Theme i18n support
 # Available values: ar, bn, ca, de, el, en, es, fr, hu, id, it, ja, ko, nl, pt-br, th, uk, zh-cn, zh-hk, zh-tw
@@ -16,7 +16,7 @@ hasCJKLanguage: false
 languages:
     en:
         languageName: English
-        title: Example Site
+        title: Ikhode
         weight: 1
         params:
             description: I'm a game developer who studying Software Engineer at Cambodia Country.
@@ -211,15 +211,15 @@ menu:
     social:
         - identifier: github
           name: GitHub
-          url: https://github.com/CaiJimmy/hugo-theme-stack
+          url: https://github.com/ikhode-kh
           params:
               icon: brand-github
 
-        - identifier: twitter
-          name: Twitter
-          url: https://twitter.com
+        - identifier: youtube
+          name: YouTube
+          url: https://www.youtube.com/@_Ikhode
           params:
-              icon: brand-twitter
+              icon: brand-youtube
 
 related:
     includeNewer: true
