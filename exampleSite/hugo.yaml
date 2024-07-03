@@ -1,9 +1,9 @@
-baseurl: https://example.com
+baseurl: https://ikhode.site
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 3
-title: Example Site
-copyright: Example Person
+title: Ikhode
+copyright: Soytet
 
 # Theme i18n support
 # Available values: ar, bn, ca, de, el, en, es, fr, hu, id, it, ja, ko, nl, pt-br, th, uk, zh-cn, zh-hk, zh-tw
@@ -19,20 +19,26 @@ languages:
         title: Example Site
         weight: 1
         params:
-            description: Example description
+            description: I'm a game developer who studying Software Engineer which located at Cambodia Country.
+    kh:
+        languageName: ខ្មែរ
+        title: អភិវឌ្ឍ
+        weight: 2
+        params:
+            description: ខ្ញុំបាទជាអ្នកបង្កើតហ្គេមមួយរូបដែលកំពុងតែសិក្សាលើជំនាញ វិស្វកម្មបច្ចេកវិទ្យាព័ត៌មាន ដែលមានទីតាំងបច្ចុប្បន្នស្ថិតនៅ ទីក្រុងភ្នំពេញ។
     zh-cn:
         languageName: 中文
         title: 演示站点
-        weight: 2
+        weight: 3
         params:
-            description: 演示说明
+            description: 我是一名遊戲開發人員，在柬埔寨國家學習軟體工程師。
     ar:
         languageName: عربي
         languagedirection: rtl
         title: موقع تجريبي
-        weight: 3
+        weight: 4
         params:
-            description: وصف تجريبي
+            description: أنا مطور ألعاب وأدرس مهندس برمجيات في دولة كمبوديا.
 
 services:
     # Change it to your Disqus shortname before using
@@ -58,8 +64,8 @@ params:
         customText:
 
     dateFormat:
-        published: Jan 02, 2006
-        lastUpdated: Jan 02, 2006 15:04 MST
+        published: July 01, 2024
+        lastUpdated: July 03, 2024 15:04 MST
 
     sidebar:
         emoji: 🍥
@@ -67,7 +73,7 @@ params:
         avatar:
             enabled: true
             local: true
-            src: img/avatar.png
+            src: img/Ikhode_Avatar.png
 
     article:
         math: false
@@ -211,15 +217,15 @@ menu:
     social:
         - identifier: github
           name: GitHub
-          url: https://github.com/CaiJimmy/hugo-theme-stack
+          url: https://github.com/ikhode-kh
           params:
               icon: brand-github
 
-        - identifier: twitter
-          name: Twitter
-          url: https://twitter.com
+        - identifier: youtube
+          name: YouTube
+          url: https://www.youtube.com/@_Ikhode
           params:
-              icon: brand-twitter
+              icon: brand-youtube
 
 related:
     includeNewer: true
