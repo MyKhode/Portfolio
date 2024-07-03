@@ -1,7 +1,7 @@
 +++
 author = "Ikhode Official"
 title = "Khmer Telegram Chatbot"
-date = "2024-03-07"
+date = "24-03-07"
 description = "Khmer Telegram Chatbot Using Natural Language Processing - NLP, which implementation with NN model"
 tags = [
     "Ai",
