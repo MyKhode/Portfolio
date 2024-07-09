@@ -13,7 +13,6 @@ tags = [
 ]
 categories = [
     "NLP",
-    "Chatbot",
 ]
 series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]
