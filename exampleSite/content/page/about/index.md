@@ -1,5 +1,5 @@
 ---
-title: About Ikhode
+title: About
 description: Who Ikhode, What Ikhode, Ikhode background, some progress which Ikhode has been working on
 date: '2019-02-28'
 aliases:
@@ -42,7 +42,6 @@ menu:
     </td>
   </tr>
 </table>
-
  
 <!-- Tech Stack -->
 </br>
@@ -97,8 +96,6 @@ menu:
   <a href="https://github.com/ikhode-kh/Student-Lobby-Online"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ikhode-kh&repo=Student-Lobby-Online&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="Student-Lobby-Online"></a>
   <a href="https://github.com/ikhode-kh/Car_Management_System"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ikhode-kh&repo=Car_Management_System&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="Car_Management_System"></a>
   </br>
-
-  
   </p>
   <p align="right">
     <a href="https://github.com/ikhode-kh?tab=repositories"><img alt="Static Badge" src="https://img.shields.io/badge/All%20Projects-05122A?style=flat-square"></a>
