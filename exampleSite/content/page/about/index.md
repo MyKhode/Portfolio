@@ -86,7 +86,6 @@ menu:
   <img alt="Static Badge" src="https://img.shields.io/badge/StackOverflow-05122A?style=flat&logo=StackOverflow">
 </p>
 
-
 <!-- Top Projects List -->
 </br>
 <h2>Top Projects</h2>
@@ -100,12 +99,8 @@ menu:
   <p align="right">
     <a href="https://github.com/ikhode-kh?tab=repositories"><img alt="Static Badge" src="https://img.shields.io/badge/All%20Projects-05122A?style=flat-square"></a>
   </p>
-
-
-<!-- Current Stats card -->
 </br>
 <h2>Current Stats</h2>
-
 <div>
 
 <a href="https://github.com/ikhode-kh">
@@ -115,31 +110,14 @@ menu:
 <img src="https://github-readme-stats.vercel.app/api?username=ikhode-kh&show_icons=true&bg_color=0D1017&border_radius=0&text_color=E8EDF3D5&title_color=E8EDF3&icon_color=E8EDF3&hide_border=false&card_width=414&card_height=195"/>
     </a>
 </div>
-
-
-
-<!-- Activity Graph card -->
 </br>
 </br>
 <h2>Activity Graph</h2>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ikhode-kh&bg_color=000000&color=ffffff&line=ffffff&point=93f915&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ![Static Badge](https://img.shields.io/badge/Thanks%20for%20visiting!-05122A)
 ![Static Badge](https://img.shields.io/badge/Show%20some%20%E2%9D%A4%EF%B8%8F%20by%20%E2%AD%90%20repositories%20you%20find%20helpful!%20-05122A)
 ![GitHub followers](https://img.shields.io/github/followers/ikhode-kh?style=flat&logo=github&color=05122A&labelColor=05122A)
 ![Profile Views](https://komarev.com/ghpvc/?username=ikhode-kh&style=flat&labelolor=05122A&color=05122A)
-
-
-
-
-
-<!--
-Animated Line:
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-Activity Graph:
-![Aman's Graph](https://github-readme-activity-graph.vercel.app/graph?username=amangupta143&custom_title=Aman's%20GitHub%20Activity%20Graph&bg_color=0d1017&color=e8edf3&line=e8edf3&point=e8edf3&area_color=FFFFFF&title_color=FFFFFF&area=true)
--->
