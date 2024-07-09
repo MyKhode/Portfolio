@@ -1,118 +1,103 @@
 +++
 author = "Ikhode Official"
-title = "Khmer Telegram Chatbot"
+title = "Project Practicum - RUPP ITE Year 2, Semester 1"
 date = "24-03-07"
-description = "Khmer Telegram Chatbot Using Natural Language Processing - NLP, which implementation with NN model"
+description = "Bring school into virtual community which allow student can meet and talk which inspired by meta-verse."
 tags = [
-    "Ai",
-    "NLP",
-    "Chatbot",
-    "Starter",
-    "Telegram",
-    "Telegram-Chatbot",
+    "Project Practicum",
+    "RUPP ITE Project",
+    "Unity Project",
+    "School Project",
+    "year 2",
+    "project year 2",
 ]
 categories = [
-    "NLP",
-    "Chatbot",
+    "Unity",
+    "Netcode for Gameobjects",
 ]
 series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]
-image = "khmer-telegram-chatbot.png"
+image = "ikhode-slide3.jpg"
 +++
 
 <div align="center">
 
-# 🏅Telegram Khmer Chatbot + Open Source Code🏅
+# 🏅Student Lobby Online + [Project](https://drive.google.com/file/d/1MNQM9gkYjb7tHPq1IFnXvy04x1J_cH8D/view?usp=sharing) + STEM Building 🏅
 
 [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://github.com/pre-commit/pre-commit)
-<img alt="GitHub forks" src="https://img.shields.io/github/forks/SOYTET/Telegram-Chatbot">
-<img alt="GitHub License" src="https://img.shields.io/github/license/SOYTET/Telegram-Chatbot">
-<img alt="GitHub Release" src="https://img.shields.io/github/v/release/SOYTET/Telegram-Chatbot">
-<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/SOYTET/Telegram-Chatbot">
+<img alt="GitHub forks" src="https://img.shields.io/github/forks/Ikhode-kh/Student-Lobby-Online">
+<img alt="GitHub License" src="https://img.shields.io/github/license/Ikhode-kh/Student-Lobby-Online">
+<img alt="Git Release" src="https://img.shields.io/github/v/release/Ikhode-kh/Student-Lobby-Online">
+<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/Ikhode-kh/Student-Lobby-Online">
 
-
+# RUPP-ITE-G9-Y2-S1 
 
 
 </div>
 
-### This will never happen if Khmer NLTK Module doesn't exist, thanks 🙏
+### This will never happen if Netcode for Gameobject (Network) doesn't exist, thanks 🙏
+#### I hope all guy use it in study purpose and learn from my mistake (spaghetti code)
 ## 🎯TODO
 
-- [X] Tokenization and Bag of Words Creation
-- [X] Data Preprocessing
-- [X] Neural Network Model
-- [X] Training the Model
-- [X] Model Evaluation
+- [X] Global Access || Multiplayer​
+- [X] Desktop Application​
+- [X] Sent Message
+- [X] RUPP STEM building
 - [X] Telegram Bot Integration
-- [ ] Make it more inteligent and flexible
+- [ ] Mini Map for view the whole map as 2D aspect​
+- [ ] Announcement or alert message when class open or other event start​
+- [ ] Presentation in class
+- [ ] Real Time Voice
 
 ## 💪Installation
 
 ```bash
-pip install numpy
+Install Unity Editor V2019
 ```
 ```bash
-pip install khmer-nltk
+Download the project (Via Link below)
 ```
 ```bash
-pip install python-telegram-bot
+Add project in Unity Hub
 ```
 ```bash
-pip install torch
+Click to Open the project ....
 ```
+https://drive.google.com/file/d/1MNQM9gkYjb7tHPq1IFnXvy04x1J_cH8D/view?usp=sharing
+## 🏹 Methodology
 
-## 🏹 Quick tour
-
-[[Blog]](https://ikhode.blogspot.com/)
-
-To get the quick way of using this code package, please install requirement.txt  and read the comment in code header before run that code script. 
-#### Some Mention
-- Check folder directory 
-- Check Bot Api 
-- Check Bot Username
-- Make sure u aready istall library I mentioned.
+- Using Unity Engine for Game dev​
+- Using Netcode for GameObject as a Network Framwork​
+- Using Dedicated Server for Communication - C2C​
+- Using Discord Integration for voice system​
+- Using Starter Kit Asset of Unity official Provider​
+- Using New Input System for Flexible in any Controller(Input)​
+- Using other more Module in Unity Gaming Service to support multiplayer and game mechanics​
 (if u have any issue, U can contact me by Telegram Directly @SOYTET)
 
 ## 🔯 Demo
 
 #### Run the ChatApp Scripts to Excute Telegram integration and Bot response after training finish
 ```bash
-Python ./App/ChatApp.py
+Open the IICampus Scene
 ```
-![Screenshot 2024-05-28 180135](https://github.com/SOYTET/Telegram-Chatbot/assets/132768132/422ad075-38b3-45aa-b39d-9544491f9bea)
-
-
-#### While Running ChatApp.py Script, so u can make some chat with Telegram Bot which u integrate with your own
-```bash
-សួស្ដីបង
-```
-![Screenshot 2024-05-28 180224 (1)](https://github.com/SOYTET/Telegram-Chatbot/assets/132768132/d7462838-f301-4723-b52a-aa4efe63e204)
-
+![Screenshot 2024-04-27 080805](https://github.com/Ikhode-kh/Student-Lobby-Online/assets/132768132/ad8ecc10-2baf-42d5-a103-540994a442a4)
 
 ### ✍️ Citation
 
 ```bibtex
-@misc{Chatbot,
+@misc{Metaverse Inspired,
   author = {SOY TET},
-  title = {Khmer Telegram Traditional Chatbot},
+  title = {Student-Lobby-Online},
   year = {2023},
+  purpose = {project practicum},
   publisher = {GitHub},
   journal = {GitHub repository}
 }
 ```
-#### Used in:
-- [stopes: A library for preparing data for machine translation research](https://github.com/facebookresearch/stopes)
-- [LASER Language-Agnostic SEntence Representations](https://github.com/facebookresearch/LASER)
-- [Pretrained Models and Evaluation Data for the Khmer Language](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9645441)
-- [Multilingual Open Text 1.0: Public Domain News in 44 Languages](https://arxiv.org/pdf/2201.05609.pdf)
-- [ZusammenQA: Data Augmentation with Specialized Models for Cross-lingual Open-retrieval Question Answering System](https://arxiv.org/pdf/2205.14981.pdf)
-- [Shared Task on Cross-lingual Open-Retrieval QA](https://www.aclweb.org/portal/content/shared-task-cross-lingual-open-retrieval-qa)
-- [No Language Left Behind: Scaling Human-Centered Machine Translation](https://research.facebook.com/publications/no-language-left-behind/)
-- [Wordless](https://github.com/BLKSerene/Wordless)
-- [A Simple and Fast Strategy for Handling Rare Words in Neural Machine Translation](https://aclanthology.org/2022.aacl-srw.6/)
 
 ### 👨‍🎓 References
 
-- [NLP: Text Segmentation Using Conditional Random Fields](https://medium.com/@phylypo/nlp-text-segmentation-using-conditional-random-fields-e8ff1d2b6060)
-- [Khmer Word Segmentation Using Conditional Random Fields](https://www2.nict.go.jp/astrec-att/member/ding/KhNLP2015-SEG.pdf)
-- [Word Segmentation of Khmer Text Using Conditional Random Fields](https://medium.com/@phylypo/segmentation-of-khmer-text-using-conditional-random-fields-3a2d4d73956a)
+- [Docs: Netcode for Gameobject](https://docs-multiplayer.unity3d.com/netcode/current/about/)
+- [Unity Editor: Unity is a Platform for develop various Game Genre, which include package for developer to use Free + Paid](https://www.bing.com/ck/a?!&&p=7faf7d0311d465eaJmltdHM9MTcxOTUzMjgwMCZpZ3VpZD0xNzNjZGJjNy03ZDFlLTY4MzMtMDM1ZC1jZjg1N2MxZjY5Y2EmaW5zaWQ9NTIwMQ&ptn=3&ver=2&hsh=3&fclid=173cdbc7-7d1e-6833-035d-cf857c1f69ca&psq=unity+editor+download&u=a1aHR0cHM6Ly91bml0eS5jb20vcmVsZWFzZXMvZWRpdG9yL2FyY2hpdmU&ntb=1)
+- [Student Online Lobby Projectl](https://drive.google.com/file/d/1MNQM9gkYjb7tHPq1IFnXvy04x1J_cH8D/view?usp=sharing)
