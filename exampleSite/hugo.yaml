@@ -19,20 +19,42 @@ languages:
         title: Ikhode
         weight: 1
         params:
-            description: I'm a game developer who studying Software Engineer at Cambodia Country.
-    zh-cn:
-        languageName: 中文
-        title: 演示站点
+            description: I'm a game developer who is studying Software Engineering in Cambodia.
+
+    km:
+        languageName: Khmer
+        title: Ikhode
         weight: 2
         params:
-            description: 我是一名遊戲開發人員，在柬埔寨國家學習軟體工程師。
-    ar:
-        languageName: عربي
-        languagedirection: rtl
-        title: ikhode
+            description: ខ្ញុំជាអ្នកអភិវឌ្ឍន៍ហ្គេមដែលកំពុងសិក្សាវិស្វកម្ម Software ក្នុងប្រទេសកម្ពុជា។
+
+    ko:
+        languageName: 한국어
+        title: Ikhode
         weight: 3
         params:
-            description:  أنا مطور ألعاب وأدرس مهندس برمجيات في دولة كمبوديا.
+            description: 저는 캄보디아에서 소프트웨어 엔지니어링을 공부하는 게임 개발자입니다.
+
+    ja:
+        languageName: 日本語
+        title: Ikhode
+        weight: 4
+        params:
+            description: 私はカンボジアでソフトウェア工学を学んでいるゲーム開発者です。
+
+    zh-cn:
+        languageName: 中文
+        title: Ikhode
+        weight: 5
+        params:
+            description: 我是一名游戏开发人员，在柬埔寨学习软件工程。
+
+    th:
+        languageName: ไทย
+        title: Ikhode
+        weight: 6
+        params:
+            description: ฉันเป็นนักพัฒนาเกมที่กำลังศึกษาวิศวกรรมซอฟต์แวร์ในกัมพูชา
 
 services:
     # Change it to your Disqus shortname before using
@@ -63,7 +85,7 @@ params:
 # 🍥
     sidebar:
         emoji: ♓
-        subtitle: I'm a game developer who studying Software Engineer at Cambodia Country.
+        subtitle: I'm a game developer who studying Software Engineer at Cambodia.
         avatar:
             enabled: true
             local: true
@@ -211,13 +233,13 @@ menu:
     social:
         - identifier: github
           name: GitHub
-          url: https://github.com/ikhode-kh
+          url: https://github.com/ikhode-arena
           params:
               icon: brand-github
 
         - identifier: youtube
           name: YouTube
-          url: https://www.youtube.com/@_Ikhode
+          url: https://www.youtube.com/@ikhode-kh
           params:
               icon: youtube
 
