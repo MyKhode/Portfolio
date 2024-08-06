@@ -22,11 +22,11 @@ languages:
             description: I'm a game developer who is studying Software Engineering in Cambodia.
 
     km:
-        languageName: Khmer
-        title: Ikhode
+        languageName: ខ្មែរ
+        title: កំពូលមនុស្ស
         weight: 2
         params:
-            description: ខ្ញុំជាអ្នកអភិវឌ្ឍន៍ហ្គេមដែលកំពុងសិក្សាវិស្វកម្ម Software ក្នុងប្រទេសកម្ពុជា។
+            description: ខ្ញុំជាអ្នកបង្កើតហ្គេមដែលកំពុងតែល្បីល្បាញខ្លាំងនៅក្នុងប្រទេសកម្ពុជា។
 
     ko:
         languageName: 한국어
@@ -239,7 +239,7 @@ menu:
 
         - identifier: youtube
           name: YouTube
-          url: https://www.youtube.com/@ikhode-kh
+          url: https://www.youtube.com/@ikhode-arena
           params:
               icon: youtube
 
