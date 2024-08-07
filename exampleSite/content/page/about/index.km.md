@@ -1,6 +1,6 @@
 ---
 title: អំពីខ្ញុំ
-description: នេះជាពត៌មានអំពីខ្ញុំដែលជាអ្នកបង្កើតហ្គេម ក្នុងនេះក៏មានរួបបញ្ចូលនូវពត៌មានខ្លះៗអំពីទិសដៅ និង អត្ថន័យដែលខ្ញុំបង្កើតគេហទំព័រនេះឡើងមក
+description: តើខ្ញុំបានសម្រេចអ្វីខ្លះ, កំពុងធ្វើអ្វី, នឹងចង់សម្រេចអ្វីនាថ្ងៃអនាគត់! ❤️ sit back, relax, enjoy the show!
 date: '2019-02-28'
 aliases:
   - about-us
@@ -14,7 +14,7 @@ menu:
         params:
             icon: user
 ---
-<h1>សួរស្ដី👋, ខ្ញុំបាទឈ្មោះ សយ ទិត.</h1>
+<h1>សួរស្ដី👋, ខ្ញុំបាទឈ្មោះ សយ ទិត</h1>
 
 <!-- Header Links -->
 [![Portfolio](https://img.shields.io/badge/-artstation-blue?style=flat&logo=artstation&logoColor=white)](https://www.artstation.com/ikhode)
@@ -37,16 +37,17 @@ menu:
       </a>
     </td>
     <td>
-      I'm a <b>Game Developer</b> who passionate on <b>Game Mechanics</b> and <b>Level Design</b>. In addition to these field, I'm also diving into <b>Multiplayer Solutions, Game Assets Modeling</b> and trying to improve my <b>Spaghetti Code</b> skills. .
+      ខ្ញុំបាទជាអ្នក <b>បង្កើតហ្គេម</b> មួយរួបដែលបានបង្កើតហ្គេមជាច្រើនក្នុងអំឡុងពេល២-៣ឆ្នាំនេះ ថ្មីៗនេះ ខ្ញុំក៏បានបញ្ចេញហ្គេមជាសាធារណៈផងដែរ មានដូចជា <b><a href="https://melon-pvp.en.uptodown.com/android"> melon-battle-field </a></b> និងនៅមានហ្គេមជាច្រើនទៀតដែលយើងមិនបានបញ្ចេញជាសាធារណៈ។ បច្ចុប្បន្ននេះពួកយើងកំពុងតែបង្កើតហ្គេមឡានមួយទៀត ក្នុងការត្រៀមខ្លួនបញ្ចេញឲ្យបានទាន់ពាក់កណ្ដាលឆ្នាំ <b> ២០២៥ </b> ខាងមុខនេះ។ ថ្ងៃអនគត់ទៅ យើងសង្ឍឹមថា ខ្ញុំនឹងអាចឃើញអត្តសញ្ញាណជាតិខ្ញុំនៅក្នុងហ្គេមបាន។
+      <!-- ព្រោះខ្ញុំកម្រឃើញណាស់ ហ្គេមដែលមានអត្ថសញ្ណាណកម្ពុជានៅក្នុងនោះ និង​ជាពិសេសនឹងអាចមានមនុស្សជាច្រើនបានស្គាលអរិយធម៌ខ្មែរនៅក្នុងសម័យថ្មីនេះផងដែរ។ -->
     </td>
   </tr>
 </table>
 
 <!-- Tech Stack -->
 </br>
-<h2>Tech Stack</h2>
+<h2>ភាសាកំព្យូរទ័រដែលខ្ញុំប្រើប្រាស់</h2>
 <!-- <img align="right" width="40%" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/> -->
-<h3>Programming Languages</h3>
+<h3>ភាសាទូទៅ</h3>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python">
   <img alt="C" src="https://img.shields.io/badge/C-05122A?logo=c&style=flat">
@@ -56,7 +57,7 @@ menu:
   <img alt="C#" src="https://img.shields.io/badge/CSharp-05122A?logo=csharp&style=flat">
 </p>
 
-<h3>Game dev Engine and Tools</h3>
+<h3>កម្មវិធីបង្កើតហ្គេម</h3>
 <p>
     <img alt="unity" src="https://img.shields.io/badge/Unity-05122A?style=flat&logo=unity">
     <img alt="blender" src="https://img.shields.io/badge/Blender-05122A?style=flat&logo=blender">
@@ -65,7 +66,7 @@ menu:
     <img alt="gimp" src="https://img.shields.io/badge/GIMP-05122A?style=flat&logo=gimp">
 </p>
 
-<h3>Databases and Cloud Hosting</h3>
+<h3>កន្លែងទុកទិន្នន័យ</h3>
 <p>
   <img alt="Github Pages" src="https://img.shields.io/badge/Github%20Pages-05122A?style=flat&logo=Github">
   <img alt="MySql" src="https://img.shields.io/badge/MySql-05122A?style=flat&logo=MySql">
@@ -73,7 +74,7 @@ menu:
   <img src="https://img.shields.io/badge/AWS%20EC2-05122A?style=flat&logo=amazonec2&logoColor=#FF9900" alt="AWS">
 </p>
 
-<h3>Software and Tools</h3>
+<h3>កន្លែងខ្ញុំសរសេរ និងផ្ទុកកូដ</h3>
 <p>
   <img alt="Git" src="https://img.shields.io/badge/Git-05122A?style=flat&logo=Git">
   <img alt="Github Desktop" src="https://img.shields.io/badge/Github%20Desktop-05122A?style=flat&logo=Github">
@@ -88,50 +89,47 @@ menu:
 
 <!-- Top Projects List -->
 </br>
-<h2>Top Projects</h2>
+<h2>គម្រោងសំខាន់ៗ</h2>
 <p>
-  <a href="https://github.com/ikhode-arena/Telegram-Chatbot"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ikhode-arena&repo=Telegram-Chatbot&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="Telegram Chatbot"></a>
- <a href="https://github.com/ikhode-arena/Netcode_FPS_Sample"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ikhode-arena&repo=Netcode_FPS_Sample&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="Netcode_FPS_Sample"></a>
-  <a href="https://github.com/ikhode-arena/Student-Lobby-Online"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ikhode-arena&repo=Student-Lobby-Online&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="Student-Lobby-Online"></a>
-  <a href="https://github.com/ikhode-arena/Car_Management_System"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ikhode-arena&repo=Car_Management_System&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="Car_Management_System"></a>
+  <a href="https://github.com/MyKhode/Telegram-Chatbot"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MyKhode&repo=Telegram-Chatbot&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="Telegram Chatbot"></a>
+ <a href="https://github.com/MyKhode/Netcode_FPS_Sample"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MyKhode&repo=Netcode_FPS_Sample&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="Netcode_FPS_Sample"></a>
+  <a href="https://github.com/MyKhode/Student-Lobby-Online"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MyKhode&repo=Student-Lobby-Online&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="Student-Lobby-Online"></a>
+  <a href="https://github.com/MyKhode/Car_Management_System"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MyKhode&repo=Car_Management_System&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="Car_Management_System"></a>
   </br>
 
   
   </p>
   <p align="right">
-    <a href="https://github.com/ikhode-arena?tab=repositories"><img alt="Static Badge" src="https://img.shields.io/badge/All%20Projects-05122A?style=flat-square"></a>
+    <a href="https://github.com/MyKhode?tab=repositories"><img alt="Static Badge" src="https://img.shields.io/badge/All%20Projects-05122A?style=flat-square"></a>
   </p>
 
 
 <!-- Current Stats card -->
 </br>
-<h2>Current Stats</h2>
+<h2>អ្វីដែលខ្ញុំកំពុងមានក្នុង Github</h2>
 
 <div>
 
-<a href="https://github.com/ikhode-arena">
-      <img alt="ikhode's streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=ikhode-arena&theme=monokai-metallian&border_radius=0&card_width=417&card_height=194&background=0D1017&fire=E8EDF3&currStreakNum=E8EDF3&sideNums=E8EDF3&currStreakLabel=E8EDF3&sideLabels=E8EDF3F0&dates=E8EDF3D5&ring=E8EDF3F0&card_width=400&card_height=195"/>
+<a href="https://github.com/MyKhode">
+      <img alt="ikhode's streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=MyKhode&theme=monokai-metallian&border_radius=0&card_width=417&card_height=194&background=0D1017&fire=E8EDF3&currStreakNum=E8EDF3&sideNums=E8EDF3&currStreakLabel=E8EDF3&sideLabels=E8EDF3F0&dates=E8EDF3D5&ring=E8EDF3F0&card_width=400&card_height=195"/>
     </a>
-  <a href="https://github.com/ikhode-arena">
-<img src="https://github-readme-stats.vercel.app/api?username=ikhode-arena&show_icons=true&bg_color=0D1017&border_radius=0&text_color=E8EDF3D5&title_color=E8EDF3&icon_color=E8EDF3&hide_border=false&card_width=414&card_height=195"/>
+  <a href="https://github.com/MyKhode">
+<img src="https://github-readme-stats.vercel.app/api?username=MyKhode&show_icons=true&bg_color=0D1017&border_radius=0&text_color=E8EDF3D5&title_color=E8EDF3&icon_color=E8EDF3&hide_border=false&card_width=414&card_height=195"/>
     </a>
 </div>
-
-
-
 <!-- Activity Graph card -->
 </br>
 </br>
-<h2>Activity Graph</h2>
+<h2>សកម្មភាពខ្ញុំ</h2>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ikhode-arena&bg_color=000000&color=ffffff&line=ffffff&point=93f915&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MyKhode&bg_color=000000&color=ffffff&line=ffffff&point=93f915&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ![Static Badge](https://img.shields.io/badge/Thanks%20for%20visiting!-05122A)
 ![Static Badge](https://img.shields.io/badge/Show%20some%20%E2%9D%A4%EF%B8%8F%20by%20%E2%AD%90%20repositories%20you%20find%20helpful!%20-05122A)
-![GitHub followers](https://img.shields.io/github/followers/ikhode-arena?style=flat&logo=github&color=05122A&labelColor=05122A)
-![Profile Views](https://komarev.com/ghpvc/?username=ikhode-arena&style=flat&labelolor=05122A&color=05122A)
+![GitHub followers](https://img.shields.io/github/followers/MyKhode?style=flat&logo=github&color=05122A&labelColor=05122A)
+![Profile Views](https://komarev.com/ghpvc/?username=MyKhode&style=flat&labelolor=05122A&color=05122A)
 
 
 

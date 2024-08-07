@@ -1,15 +1,12 @@
 +++
-author = "Ikhode Official"
-title = "Khmer Telegram Chatbot"
+author = "សយ ទិត"
+title = "ប្រព័ន្ធតបសារដោយស្វ័យប្រវត្ដិជាមួយបញ្ញាសិប្បនិម្មិត"
 date = "24-03-07"
-description = "Khmer Telegram Chatbot Using Natural Language Processing - NLP, which implementation with NN model"
+description = "បញ្ញាសិប្បនិម្មិតជាមួយនឹងភាសាខ្មែរដែលអាចឲ្យវាឆ្លើយតបដោយស្វ័យប្រវត្ដិ - ប្រើប្រាស់ NN model របស់ Pytorch"
 tags = [
-    "Ai",
-    "NLP",
-    "Chatbot",
-    "Starter",
-    "Telegram",
-    "Telegram-Chatbot",
+    "បញ្ញាសិប្បនិម្មិត",
+    "អំពីភាសាខ្មែរ",
+    "បច្ចេកទេស",
 ]
 categories = [
     "NLP",
@@ -21,7 +18,7 @@ image = "khmer-telegram-chatbot.png"
 
 <div align="center">
 
-# 🏅Telegram Khmer Chatbot + Open Source Code🏅
+# 🏅ប្រព័ន្ធតបសារដោយស្វ័យប្រវត្ដិជាមួយបញ្ញាសិប្បនិម្មិត🏅
 
 [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://github.com/pre-commit/pre-commit)
 <img alt="GitHub forks" src="https://img.shields.io/github/forks/SOYTET/Telegram-Chatbot">
@@ -34,8 +31,7 @@ image = "khmer-telegram-chatbot.png"
 
 </div>
 
-### This will never happen if Khmer NLTK Module doesn't exist, thanks 🙏
-## 🎯TODO
+## 🎯គម្រោងដែលគ្រងថាធ្វើ
 
 - [X] Tokenization and Bag of Words Creation
 - [X] Data Preprocessing
@@ -45,7 +41,7 @@ image = "khmer-telegram-chatbot.png"
 - [X] Telegram Bot Integration
 - [ ] Make it more inteligent and flexible
 
-## 💪Installation
+## 💪របៀបតម្លើង
 
 ```bash
 pip install numpy
@@ -60,17 +56,17 @@ pip install python-telegram-bot
 pip install torch
 ```
 
-## 🏹 Quick tour
+## 🏹 រៀបធ្វើខ្លីៗ
 
 To get the quick way of using this code package, please install requirement.txt  and read the comment in code header before run that code script. 
-#### Some Mention
+#### កន្លែងដែលគួរតែពិនិត្រ
 - Check folder directory 
 - Check Bot Api 
 - Check Bot Username
 - Make sure u aready istall library I mentioned.
 (if u have any issue, U can contact me by Telegram Directly @SOYTET)
 
-## 🔯 Demo
+## 🔯 ការបង្ហាញ
 
 #### Run the ChatApp Scripts to Excute Telegram integration and Bot response after training finish
 ```bash
@@ -86,7 +82,7 @@ Python ./App/ChatApp.py
 ![Screenshot 2024-05-28 180224 (1)](https://github.com/SOYTET/Telegram-Chatbot/assets/132768132/d7462838-f301-4723-b52a-aa4efe63e204)
 
 
-### ✍️ Citation
+### ✍️ អំពីអ្នកសរសេរ
 
 ```bibtex
 @misc{Chatbot,
@@ -97,7 +93,7 @@ Python ./App/ChatApp.py
   journal = {GitHub repository}
 }
 ```
-#### Used in:
+#### កន្លែងដែលគេធ្លាប់បានប្រើប្រាស់:
 - [stopes: A library for preparing data for machine translation research](https://github.com/facebookresearch/stopes)
 - [LASER Language-Agnostic SEntence Representations](https://github.com/facebookresearch/LASER)
 - [Pretrained Models and Evaluation Data for the Khmer Language](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9645441)
@@ -108,7 +104,7 @@ Python ./App/ChatApp.py
 - [Wordless](https://github.com/BLKSerene/Wordless)
 - [A Simple and Fast Strategy for Handling Rare Words in Neural Machine Translation](https://aclanthology.org/2022.aacl-srw.6/)
 
-### 👨‍🎓 References
+### 👨‍🎓 ឯកសារយោង
 
 - [NLP: Text Segmentation Using Conditional Random Fields](https://medium.com/@phylypo/nlp-text-segmentation-using-conditional-random-fields-e8ff1d2b6060)
 - [Khmer Word Segmentation Using Conditional Random Fields](https://www2.nict.go.jp/astrec-att/member/ding/KhNLP2015-SEG.pdf)

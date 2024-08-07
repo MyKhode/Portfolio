@@ -1,6 +1,6 @@
 ---
 title: About
-description: Who Ikhode, What Ikhode, Ikhode background, some progress which Ikhode has been working on
+description: I'm about to show you the real thing, set back, relax, enjoy the show! 👌
 date: '2019-02-28'
 aliases:
   - about-us
@@ -90,16 +90,16 @@ menu:
 </br>
 <h2>Top Projects</h2>
 <p>
-  <a href="https://github.com/ikhode-arena/Telegram-Chatbot"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ikhode-arena&repo=Telegram-Chatbot&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="Telegram Chatbot"></a>
- <a href="https://github.com/ikhode-arena/Netcode_FPS_Sample"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ikhode-arena&repo=Netcode_FPS_Sample&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="Netcode_FPS_Sample"></a>
-  <a href="https://github.com/ikhode-arena/Student-Lobby-Online"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ikhode-arena&repo=Student-Lobby-Online&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="Student-Lobby-Online"></a>
-  <a href="https://github.com/ikhode-arena/Car_Management_System"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ikhode-arena&repo=Car_Management_System&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="Car_Management_System"></a>
+  <a href="https://github.com/MyKhode/Telegram-Chatbot"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MyKhode&repo=Telegram-Chatbot&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="Telegram Chatbot"></a>
+ <a href="https://github.com/MyKhode/Netcode_FPS_Sample"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MyKhode&repo=Netcode_FPS_Sample&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="Netcode_FPS_Sample"></a>
+  <a href="https://github.com/MyKhode/Student-Lobby-Online"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MyKhode&repo=Student-Lobby-Online&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="Student-Lobby-Online"></a>
+  <a href="https://github.com/MyKhode/Car_Management_System"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MyKhode&repo=Car_Management_System&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="Car_Management_System"></a>
   </br>
 
   
   </p>
   <p align="right">
-    <a href="https://github.com/ikhode-arena?tab=repositories"><img alt="Static Badge" src="https://img.shields.io/badge/All%20Projects-05122A?style=flat-square"></a>
+    <a href="https://github.com/MyKhode?tab=repositories"><img alt="Static Badge" src="https://img.shields.io/badge/All%20Projects-05122A?style=flat-square"></a>
   </p>
 
 
@@ -109,11 +109,11 @@ menu:
 
 <div>
 
-<a href="https://github.com/ikhode-arena">
-      <img alt="ikhode's streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=ikhode-arena&theme=monokai-metallian&border_radius=0&card_width=417&card_height=194&background=0D1017&fire=E8EDF3&currStreakNum=E8EDF3&sideNums=E8EDF3&currStreakLabel=E8EDF3&sideLabels=E8EDF3F0&dates=E8EDF3D5&ring=E8EDF3F0&card_width=400&card_height=195"/>
+<a href="https://github.com/MyKhode">
+      <img alt="ikhode's streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=MyKhode&theme=monokai-metallian&border_radius=0&card_width=417&card_height=194&background=0D1017&fire=E8EDF3&currStreakNum=E8EDF3&sideNums=E8EDF3&currStreakLabel=E8EDF3&sideLabels=E8EDF3F0&dates=E8EDF3D5&ring=E8EDF3F0&card_width=400&card_height=195"/>
     </a>
-  <a href="https://github.com/ikhode-arena">
-<img src="https://github-readme-stats.vercel.app/api?username=ikhode-arena&show_icons=true&bg_color=0D1017&border_radius=0&text_color=E8EDF3D5&title_color=E8EDF3&icon_color=E8EDF3&hide_border=false&card_width=414&card_height=195"/>
+  <a href="https://github.com/MyKhode">
+<img src="https://github-readme-stats.vercel.app/api?username=MyKhode&show_icons=true&bg_color=0D1017&border_radius=0&text_color=E8EDF3D5&title_color=E8EDF3&icon_color=E8EDF3&hide_border=false&card_width=414&card_height=195"/>
     </a>
 </div>
 
@@ -124,14 +124,14 @@ menu:
 </br>
 <h2>Activity Graph</h2>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ikhode-arena&bg_color=000000&color=ffffff&line=ffffff&point=93f915&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MyKhode&bg_color=000000&color=ffffff&line=ffffff&point=93f915&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ![Static Badge](https://img.shields.io/badge/Thanks%20for%20visiting!-05122A)
 ![Static Badge](https://img.shields.io/badge/Show%20some%20%E2%9D%A4%EF%B8%8F%20by%20%E2%AD%90%20repositories%20you%20find%20helpful!%20-05122A)
-![GitHub followers](https://img.shields.io/github/followers/ikhode-arena?style=flat&logo=github&color=05122A&labelColor=05122A)
-![Profile Views](https://komarev.com/ghpvc/?username=ikhode-arena&style=flat&labelolor=05122A&color=05122A)
+![GitHub followers](https://img.shields.io/github/followers/MyKhode?style=flat&logo=github&color=05122A&labelColor=05122A)
+![Profile Views](https://komarev.com/ghpvc/?username=MyKhode&style=flat&labelolor=05122A&color=05122A)
 
 
 
