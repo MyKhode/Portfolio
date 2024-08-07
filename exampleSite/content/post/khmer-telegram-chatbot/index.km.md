@@ -18,7 +18,7 @@ image = "khmer-telegram-chatbot.png"
 
 <div align="center">
 
-# 🏅ប្រព័ន្ធតបសារដោយស្វ័យប្រវត្ដិជាមួយបញ្ញាសិប្បនិម្មិត🏅
+# 🏅ប្រព័ន្ធតបសារដោយស្វ័យប្រវត្ដិ🏅
 
 [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://github.com/pre-commit/pre-commit)
 <img alt="GitHub forks" src="https://img.shields.io/github/forks/SOYTET/Telegram-Chatbot">

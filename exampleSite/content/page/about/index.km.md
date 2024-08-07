@@ -33,11 +33,11 @@ menu:
   <tr>
     <td>
       <a href="https://melon-pvp.en.uptodown.com/android">
-        <img width="100" src="https://ikhode.site/img/ikhode_avatar_hu82e4cb8c4c2ff9076e31cfb02b2ebf47_39478_300x0_resize_box_3.png">
+        <img width="250" src="https://ikhode.site/img/ikhode_avatar_hu82e4cb8c4c2ff9076e31cfb02b2ebf47_39478_300x0_resize_box_3.png">
       </a>
     </td>
     <td>
-      ខ្ញុំបាទជាអ្នក <b>បង្កើតហ្គេម</b> មួយរួបដែលបានបង្កើតហ្គេមជាច្រើនក្នុងអំឡុងពេល២-៣ឆ្នាំនេះ ថ្មីៗនេះ ខ្ញុំក៏បានបញ្ចេញហ្គេមជាសាធារណៈផងដែរ មានដូចជា <b><a href="https://melon-pvp.en.uptodown.com/android"> melon-battle-field </a></b> និងនៅមានហ្គេមជាច្រើនទៀតដែលយើងមិនបានបញ្ចេញជាសាធារណៈ។ បច្ចុប្បន្ននេះពួកយើងកំពុងតែបង្កើតហ្គេមឡានមួយទៀត ក្នុងការត្រៀមខ្លួនបញ្ចេញឲ្យបានទាន់ពាក់កណ្ដាលឆ្នាំ <b> ២០២៥ </b> ខាងមុខនេះ។ ថ្ងៃអនគត់ទៅ យើងសង្ឍឹមថា ខ្ញុំនឹងអាចឃើញអត្តសញ្ញាណជាតិខ្ញុំនៅក្នុងហ្គេមបាន។
+      ខ្ញុំបាទជាអ្នក <b>បង្កើតហ្គេម</b> មួយរួបដែលបានបង្កើតហ្គេមជាច្រើនក្នុងអំឡុងពេល២-៣ឆ្នាំនេះ ថ្មីៗនេះ ខ្ញុំក៏បានបញ្ចេញហ្គេមជាសាធារណៈផងដែរ មានដូចជា <b><a href="https://melon-pvp.en.uptodown.com/android"> melon-battle-field </a></b> និងនៅមានហ្គេមជាច្រើនទៀតដែលយើងមិនបានបញ្ចេញជាសាធារណៈ។ បច្ចុប្បន្ននេះពួកយើងកំពុងតែបង្កើតហ្គេមឡានមួយទៀត ក្នុងការត្រៀមខ្លួនបញ្ចេញឲ្យបានទាន់ពាក់កណ្ដាលឆ្នាំ <b> ២០២៥ </b> ខាងមុខនេះ។ ថ្ងៃអនគត់ទៅ ខ្ញុំសង្ឍឹមថា ខ្ញុំនឹងអាចឃើញអត្តសញ្ញាណជាតិខ្ញុំនៅក្នុងហ្គេមបាន។
       <!-- ព្រោះខ្ញុំកម្រឃើញណាស់ ហ្គេមដែលមានអត្ថសញ្ណាណកម្ពុជានៅក្នុងនោះ និង​ជាពិសេសនឹងអាចមានមនុស្សជាច្រើនបានស្គាលអរិយធម៌ខ្មែរនៅក្នុងសម័យថ្មីនេះផងដែរ។ -->
     </td>
   </tr>
@@ -130,15 +130,3 @@ menu:
 ![Static Badge](https://img.shields.io/badge/Show%20some%20%E2%9D%A4%EF%B8%8F%20by%20%E2%AD%90%20repositories%20you%20find%20helpful!%20-05122A)
 ![GitHub followers](https://img.shields.io/github/followers/MyKhode?style=flat&logo=github&color=05122A&labelColor=05122A)
 ![Profile Views](https://komarev.com/ghpvc/?username=MyKhode&style=flat&labelolor=05122A&color=05122A)
-
-
-
-
-
-<!--
-Animated Line:
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-Activity Graph:
-![Aman's Graph](https://github-readme-activity-graph.vercel.app/graph?username=amangupta143&custom_title=Aman's%20GitHub%20Activity%20Graph&bg_color=0d1017&color=e8edf3&line=e8edf3&point=e8edf3&area_color=FFFFFF&title_color=FFFFFF&area=true)
--->
