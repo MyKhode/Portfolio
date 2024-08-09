@@ -2,7 +2,7 @@ baseurl: https://ikhode.site
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 3
-title: Ikhode Arena - Let's Me Share Them#️⃣ Together! ❤️
+title: Ikhode Arena
 copyright: Ikhode Arena
 
 # Theme i18n support
@@ -16,10 +16,10 @@ hasCJKLanguage: false
 languages:
     en:
         languageName: English
-        title: Ikhode
+        title: Ikhode - Let's Me Share Them#️⃣ Together! ❤️
         weight: 1
         params:
-            description: I'm an indie game developer who is studying Software Engineering in Cambodia, we suppose to share any material, source.
+            description: I'm an indie game developer who is studying Software Engineering in Cambodia, we suppose to share any material, source here!. sit back, relax, enjoy the show!👌
 
     km:
         languageName: ខ្មែរ
@@ -84,8 +84,8 @@ params:
         lastUpdated: July 03, 2024 15:04 MST
 # 🍥
     sidebar:
-        emoji: #️⃣
-        subtitle:  I'm an indie game developer who is studying Software Engineering in Cambodia, we suppose to share any material, source. sit back, relax, enjoy the show!👌
+        emoji: 🗂️
+        subtitle:  I'm an indie game developer who is studying Software Engineering in Cambodia.
         avatar:
             enabled: true
             local: true
@@ -239,7 +239,7 @@ menu:
 
         - identifier: youtube
           name: YouTube
-          url: https://www.youtube.com/@ikhode-arena
+          url: https://www.youtube.com/@ikhode-kh
           params:
               icon: youtube
 
