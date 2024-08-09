@@ -2,7 +2,7 @@ baseurl: https://ikhode.site
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 3
-title: Ikhode Arena
+title: Ikhode - Let's Me Share Them#️⃣ Together! ❤️
 copyright: Ikhode Arena
 
 # Theme i18n support
@@ -16,7 +16,7 @@ hasCJKLanguage: false
 languages:
     en:
         languageName: English
-        title: Ikhode - Let's Me Share Them#️⃣ Together! ❤️
+        title: Ikhode
         weight: 1
         params:
             description: I'm an indie game developer who is studying Software Engineering in Cambodia, we suppose to share any material, source here!. sit back, relax, enjoy the show!👌

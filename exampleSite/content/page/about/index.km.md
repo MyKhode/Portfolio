@@ -33,7 +33,7 @@ menu:
   <tr>
     <td>
       <a href="https://melon-pvp.en.uptodown.com/android">
-        <img width="250" src="https://ikhode.site/img/ikhode_avatar_hu82e4cb8c4c2ff9076e31cfb02b2ebf47_39478_300x0_resize_box_3.png">
+        <img width="350" src="https://ikhode.site/img/ikhode_avatar_hu82e4cb8c4c2ff9076e31cfb02b2ebf47_39478_300x0_resize_box_3.png">
       </a>
     </td>
     <td>
