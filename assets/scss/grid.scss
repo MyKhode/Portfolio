@@ -98,4 +98,28 @@ main.main {
     @include respond(md) {
         padding: 0 20px;
     }
+
+    // ----------------------- new style for 2 post in 1 horizon
+
+    &.article-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+        gap: 20px; // Adjust the gap between items
+        padding: 20px 0;
+
+        @include respond(md) {
+            grid-template-columns: repeat(2, 1fr); // Two columns from medium screens onwards
+        }
+
+        @include respond(sm) {
+            grid-template-columns: 1fr; // Single column on small screens
+        }
+    }
+}
+
+.article-item {
+    background-color: #fff; // Example style
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
 }
