@@ -1,4 +1,4 @@
-baseurl: https://blog.ikhode.site
+baseurl: blog.ikhode.site
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 3
