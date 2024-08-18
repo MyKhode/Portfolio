@@ -20,8 +20,8 @@
 {{ end }}
 
 
-<!-- 
---
+
+<!-- -- -->
 {{ define "main" }}
     {{ $pages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
     {{ $notHidden := where .Site.RegularPages "Params.hidden" "!=" true }}
@@ -40,4 +40,4 @@
 
 {{ define "right-sidebar" }}
     {{ partial "sidebar/right.html" (dict "Context" . "Scope" "homepage") }}
-{{ end }} -->
+{{ end }}
