@@ -3,7 +3,7 @@ languageCode: en-us
 theme: hugo-theme-stack
 paginate: 3
 title: Ikhode - Let's Me Share Them#️⃣ Together! ❤️
-copyright: Ikhode Arena
+copyright: Ikhode Station
 
 # Theme i18n support
 # Available values: ar, bn, ca, de, el, en, es, fr, hu, id, it, ja, ko, nl, pt-br, th, uk, zh-cn, zh-hk, zh-tw
@@ -16,17 +16,18 @@ hasCJKLanguage: false
 languages:
     en:
         languageName: English
-        title: Ikhode
+        title: Ikhode Blog Post
         weight: 1
         params:
             description: Ikhode#️⃣ I'm an indie game developer who is studying Software Engineering in Cambodia, we suppose to share any material, source here!. sit back, relax, enjoy the show!👌
-
+            keywords: "indie game developer, software engineering, game development, coding tutorials, Cambodia, ikhode cambodia, ikhode cambodia, khode, icode, game blog post"
     km:
         languageName: ខ្មែរ
-        title: កំពូលមនុស្ស
+        title: អ្នកបង្កើតហ្គេមនៅកម្ពុជា
         weight: 2
         params:
             description: ខ្ញុំជាអ្នកបង្កើតហ្គេមដែលកំពុងតែល្បីល្បាញខ្លាំងនៅក្នុងប្រទេសកម្ពុជា។
+            keywords: "ការបង្កើតហ្គេម, ហ្គេមនៅកម្ពុជា, ហ្គេមនៅខ្មែរ, អាយកូដ, ខ្ញុំជាអ្នកសរសេរកូដនៅកម្ពុជា, ការអភិវឌ្ឍន៍កម្មវិធីនៅកម្ពុជា, ការបង្កើតហ្គេមនៅកម្ពុជា,ហ្គេម"
 
     ko:
         languageName: 한국어
