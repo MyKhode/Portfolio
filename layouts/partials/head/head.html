@@ -4,6 +4,7 @@
 {{- $description := partialCached "data/description" . .RelPermalink -}}
 <meta name='description' {{ printf "content=%q" $description | safeHTMLAttr }}>
 {{ with .Params.Keywords }}<meta name="keywords" content="{{ delimit . ", " }}">{{ end }}
+<meta name="keywords" content="Ikhode blog post,អ្នកបង្កើតហ្គេមនៅកម្ពុជា,indie game developer, software engineering, game development, coding tutorials, Cambodia, ikhode cambodia, ikhode cambodia, khode, icode, game blog post">
 
 {{- $title := partial "data/title" . -}}
 <title>{{ $title }}</title>
